@@ -16,6 +16,6 @@ Redux-React app for e commerce.
   
 # Valid discount Codes
   (Case sensitive)
-  "TEN"
-  "TWENTY"
+  "TEN",
+  "TWENTY",
   "FOURTY"
