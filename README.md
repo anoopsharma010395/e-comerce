@@ -1,6 +1,11 @@
 # e-comerce
 Redux-React app for e commerce.
 
+# Steps to start application
+1. Go to code repository
+2. Do npm install
+3. After successful 2nd step, do "npm run start"
+
 
 # User Login info
 
